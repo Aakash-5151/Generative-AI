@@ -1,0 +1,2 @@
+0, string, 0
+1, Aakash, 22
